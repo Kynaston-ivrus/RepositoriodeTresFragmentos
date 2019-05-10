@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="cambiar">Cambiar Fragmento</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento1">Hola Fragmento 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento2">Hola Fragmento 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MensajeFragmento3">Hola Fragmento 3</string>
+</resources>
